@@ -3,7 +3,10 @@ guid: a9d74d9c49e83b04ea539314a9a1cbb3
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - cellCube: {instanceID: 0}
+  - AliveCell: {instanceID: 0}
+  - CellMaterial: {fileID: 2100000, guid: 783cd9d40ec1d194bb5275fd2065a7e5, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

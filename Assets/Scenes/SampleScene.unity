@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &988866
@@ -1440,7 +1440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &137114709
@@ -2374,7 +2374,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!1 &217347718
@@ -3924,7 +3924,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &353856221
@@ -4430,7 +4430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &391240015
@@ -4996,7 +4996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!1 &465230967
@@ -5442,7 +5442,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &512705021
@@ -5963,7 +5963,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 550182703}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 13.5}
+  m_LocalPosition: {x: 0, y: 0, z: 0.19}
   m_LocalScale: {x: 50, y: 1, z: 50}
   m_Children: []
   m_Father: {fileID: 0}
@@ -5998,7 +5998,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &552543853
@@ -7025,7 +7025,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 629735492}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5.5, z: -12.1}
+  m_LocalPosition: {x: 0, y: 5.5, z: -24}
   m_LocalScale: {x: 50, y: 10, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -7198,7 +7198,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &651060201
@@ -7718,7 +7718,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!1 &690994484
@@ -7981,7 +7981,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &709687101
@@ -8292,7 +8292,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &733979496
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8366,7 +8366,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 733979495}
   m_LocalRotation: {x: -0, y: -0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.93, y: 5.108, z: -8.432}
+  m_LocalPosition: {x: 3.75, y: 5.108, z: -7.57}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -8600,7 +8600,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 748455256}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 5.5, z: 37.96}
+  m_LocalPosition: {x: 0, y: 5.5, z: 25.4}
   m_LocalScale: {x: 50, y: 10, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -9142,6 +9142,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Dimension: 10
+  ZDim: 5
   cell: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
 --- !u!4 &781168234
 Transform:
@@ -9293,7 +9294,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 784766262}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -24.45, y: 5.5, z: 13.4}
+  m_LocalPosition: {x: -24.5, y: 5.5, z: 1.5}
   m_LocalScale: {x: 50, y: 10, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -9512,7 +9513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &810228010
@@ -9618,7 +9619,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!1 &814988384
@@ -10125,7 +10126,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 838749348}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 24.7, y: 5.5, z: 13.39}
+  m_LocalPosition: {x: 24.7, y: 5.5, z: 1.1}
   m_LocalScale: {x: 50, y: 10, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -10298,7 +10299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &845999954
@@ -10666,7 +10667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &916108152
@@ -10942,7 +10943,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 0
+  isAlive: 1
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &944223177
@@ -11361,7 +11362,7 @@ Camera:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
@@ -12512,7 +12513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1065487953
@@ -13478,7 +13479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1122507904
@@ -14854,7 +14855,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1233073836
@@ -15360,7 +15361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1265856043
@@ -15544,7 +15545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1273206583
@@ -15774,7 +15775,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 0
+  isAlive: 1
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1295647768
@@ -16280,7 +16281,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1346388993
@@ -17016,7 +17017,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1401649169
@@ -17674,7 +17675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!1 &1493422472
@@ -17890,7 +17891,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1513121794
@@ -18028,7 +18029,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1520244368
@@ -18120,7 +18121,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1529740596
@@ -18594,7 +18595,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!1 &1602330127
@@ -19454,7 +19455,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1684720356
@@ -20328,7 +20329,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1759127669
@@ -20834,7 +20835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1796743354
@@ -21328,7 +21329,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1855221052
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21351,7 +21352,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1855221051}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.48, y: 2.56, z: -8.38}
+  m_LocalPosition: {x: 9.68, y: 4.71, z: -12.61}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1218448609}
@@ -21820,7 +21821,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &1897572894
@@ -22984,7 +22985,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!1 &2030448551
@@ -23108,7 +23109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &2056833718
@@ -23292,7 +23293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d74d9c49e83b04ea539314a9a1cbb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isAlive: 1
+  isAlive: 0
   cellCube: {fileID: 3727073580520056555, guid: b1ecfc6d6e321414398fb5be8ee4d726, type: 3}
   AliveCell: {fileID: 0}
 --- !u!4 &2063025592
